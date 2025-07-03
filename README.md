@@ -39,8 +39,14 @@
 
 ## 🎓 Education
 
-**Higher Technician in Multiplatform Application Development**  
-*IES Ana Luisa Benítez (2024)*
+2020 – Higher Technician in Transport and Logistics
+CIFP Felo Monzón Grau-Bassas
+
+2024 – Higher Technician in Multiplatform Application Development
+IES Ana Luisa Benítez
+
+2025 – Specialization in Cybersecurity
+IES Ana Luisa Benítez
 
 ---
 
