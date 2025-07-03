@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Higher Technician in Multiplatform Application Development** with hands-on experience in software development.  
+🎓 **Higher Technician in Multiplatform Application Development and Specialist in Cybersecurity** with hands-on experience in software development.  
 💡 Specialized in **Java** and **MySQL**, currently expanding skills in **React**, **JavaScript**, and practical experience with **MongoDB**, **Kotlin**, **Node.js**, and **PostgreSQL**.  
 🚀 Passionate about **Full Stack development**, innovation, and building seamless user experiences.  
 📚 Committed to continuous learning and staying updated with emerging technologies.
